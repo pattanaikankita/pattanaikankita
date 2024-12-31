@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankita Pattanaik!  
 
-Welcome to my GitHub! I'm a **Software Tester** with over 3 years of experience in **manual testing**, currently transitioning into the role of an **SDET** with a focus on automation and DevOps. I am passionate about ensuring software quality through efficient testing practices and constantly learning new technologies to stay ahead in the industry.  
+Welcome to my GitHub! I'm a **Software Tester** with over 3 years of experience in **automation and manual testing**, currently transitioning into the role of an **SDET** with a focus on automation and DevOps. I am passionate about ensuring software quality through efficient testing practices and constantly learning new technologies to stay ahead in the industry.  
 
 ---
 
